@@ -32,4 +32,4 @@ Esta carpeta incluye manuales de usuario sobre el entorno de **Anaconda** y un *
 Documento `Recursos.md` con enlaces a los apuntes de las tutorías y código en Google Colab. Ideal para repasar y profundizar en los temas tratados.
 
 - **Descripción**: Enlaces y recursos adicionales de tutorías.
-- **Ubicación**: [`/Tutoría/Recursos.md`](./Tutoría/Recursos.md)
+- **Ubicación**: [`/Tutorías/Recursos.md`](./Tutorías/Recursos.md)
