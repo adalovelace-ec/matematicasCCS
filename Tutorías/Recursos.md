@@ -40,3 +40,13 @@
 
 - **Preferencias y Utilidad**  
   [Enlace](https://miro.com/app/board/uXjVLESgdPg=/?share_link_id=312117533858)
+
+## 23 de noviembre de 2024
+
+### Apuntes
+
+- **Problema de consumidor y equilibrio general**
+  [Enlace](https://miro.com/app/board/uXjVLAoDhks=/?share_link_id=368121634524)
+
+- **Equilibrio general 2 empresas y 2 hogares**
+  [Enlace](https://miro.com/app/board/uXjVLBaHmZA=/?share_link_id=530379820645)
