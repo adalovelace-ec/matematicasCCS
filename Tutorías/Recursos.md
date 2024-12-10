@@ -5,10 +5,10 @@
 ### Apuntes
 
 - **Relación de Sustitución y Utilidad CES**  
-  [Enlace](https://miro.com/app/board/uXjVLJSycM8=/?share_link_id=847171442832)
+  [Enlace](https://miro.com/app/board/uXjVLJSycM8=/?share_link_id=123397005200)
 
 - **CES, Cobb Douglas y Leontiev**  
-  [Enlace](https://miro.com/app/board/uXjVLJmXa24=/?share_link_id=773396144168)
+  [Enlace](https://miro.com/app/board/uXjVLJmXa24=/?share_link_id=962829301461)
 
 ### Código
 
@@ -22,7 +22,7 @@
 ### Apuntes
 
 - **Maximización Utilidad CES**  
-  [Enlace](https://miro.com/welcomeonboard/NDYxOSsyQ3U0U0FybUN6S2xsb2x3dHM0NS9qNTR3SHc2NEEvdDVyZkZzSTdYYnh4RVpaS2swR3puRG9Zb1gyQk1SUnhIWWRScUVGdmtJRzJYNXNOZ2V6ZU1KbDlYSmpCd3J2NVpYNEZiZmVHMExsR0ZDSm9OdHVpSGhDSHhqMmUhZQ==?share_link_id=157500759724)
+  [Enlace](https://miro.com/app/board/uXjVLH61BBw=/?share_link_id=223235475695)
 
 ### Código
 
@@ -36,17 +36,17 @@
 ### Apuntes
 
 - **Leontiev**  
-  [Enlace](https://miro.com/app/board/uXjVLELgHWE=/?share_link_id=437490521794)
+  [Enlace](https://miro.com/app/board/uXjVLELgHWE=/?share_link_id=682923582823)
 
 - **Preferencias y Utilidad**  
-  [Enlace](https://miro.com/app/board/uXjVLESgdPg=/?share_link_id=312117533858)
+  [Enlace](https://miro.com/app/board/uXjVLESgdPg=/?share_link_id=698394252462)
 
 ## 23 de noviembre de 2024
 
 ### Apuntes
 
 - **Problema de consumidor y equilibrio general**
-  [Enlace](https://miro.com/app/board/uXjVLAoDhks=/?share_link_id=368121634524)
+  [Enlace](https://miro.com/app/board/uXjVLAoDhks=/?share_link_id=942291360395)
 
 - **Equilibrio general 2 empresas y 2 hogares**
-  [Enlace](https://miro.com/app/board/uXjVLBaHmZA=/?share_link_id=530379820645)
+  [Enlace](https://miro.com/app/board/uXjVLBaHmZA=/?share_link_id=108072757734)
