@@ -50,3 +50,8 @@
 
 - **Equilibrio general 2 empresas y 2 hogares**
   [Enlace](https://miro.com/app/board/uXjVLBaHmZA=/?share_link_id=108072757734)
+
+## 15 de diciembre de 2024
+
+- **Variación equivalente, compensada y ecuación de Slutsky**
+  [Enlace](https://miro.com/app/board/uXjVL3SQ7Mo=/?share_link_id=328400458929)
